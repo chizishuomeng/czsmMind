@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "922b7569fe87cf04",
+    "type": "split",
+    "children": [
+      {
+        "id": "7926d3e905ef3add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43063d7c4fece843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软件安装/重要软件下载.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c06feb0f011a138",
+    "type": "split",
+    "children": [
+      {
+        "id": "fceee0bcb5e1132f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "075c610788ea9e55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8f3e877322dbb30",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a997961fb9badf31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0bd2ed89be1d7f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "803de7a1c7cd1f1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b312bf7553a8ec58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "软件安装/重要软件下载.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3672b9cae0422206",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "软件安装/重要软件下载.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b39c5e40535edd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d52a24838a4f936",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "软件安装/重要软件下载.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "43063d7c4fece843",
+  "lastOpenFiles": [
+    "软件安装/Untitled Diagram.svg",
+    "Excalidraw/Drawing 2024-03-02 12.09.51.excalidraw.md",
+    "Excalidraw",
+    "未命名.canvas",
+    "2024-03-02.md",
+    "软件安装/重要软件下载.md",
+    "软件安装/Drawing 2024-03-02 11.56.49.excalidraw.md",
+    "软件安装/未命名.canvas",
+    "软件安装",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
